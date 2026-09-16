@@ -1,2 +1,2 @@
 # apnacollage-demo
-this is apnacollage -demo repositiry
+This is apnacollage-demo repositiry
